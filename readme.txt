@@ -1,7 +1,7 @@
 === Wp Taxonomy Tab ===
 Contributors: anand000
-Tags: Taxonomy Tab, Tab, Responsive Tab, Tab post, Category Tab, Wp Tab, Dynamic Tab, custom taxonomy tabs
-Tested up to: 4.9.4
+Tags: Tab, Taxonomy Tab, Responsive Tab, Tab post, Category Tab
+Tested up to: 4.9.5
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
