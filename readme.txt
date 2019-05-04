@@ -1,8 +1,7 @@
 === Wp Taxonomy Tab ===
 Contributors: anand000
 Tags: Taxonomy Tab, Tab, Responsive Tab, Tab post, Category Tab, Wp Tab, Dynamic Tab, custom taxonomy tabs
-Tested up to: 4.8.1
-Stable tag: 4.3
+Tested up to: 5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +14,7 @@ This is taxonomy tab post plugin.  It has admin controls options. It is a Respon
 3. Third screenshot is admin settings.
 
 = Custom Options =
-	
+
 	1. Tab typography and customize the tab theme
 	2. Add Tab and use short code [WptTabpost tab_id="Tab ID"]
 
@@ -31,12 +30,12 @@ This is taxonomy tab post plugin.  It has admin controls options. It is a Respon
 
 == Shortcode ==
 	Add this Short code [WptTabpost tab_id="Tab ID"] to your page
-	
+
 == Screenshots ==
 
-1. screenshot-1.png 
-2. screenshot-2.png 
-3. screenshot-3.png 
+1. screenshot-1.png
+2. screenshot-2.png
+3. screenshot-3.png
 == Changelog ==
 
 = 1.0 =
